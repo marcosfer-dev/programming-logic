@@ -30,7 +30,7 @@ It is an important foundation for understanding how computers execute algorithms
 
 
 
-\## Main Idea
+\## Sequential Idea
 
 
 
