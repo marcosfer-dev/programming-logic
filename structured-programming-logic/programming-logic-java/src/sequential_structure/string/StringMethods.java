@@ -1,4 +1,4 @@
-package string;
+package sequential_structure.string;
 
 public class StringMethods {
     public static void main(String[] args) {

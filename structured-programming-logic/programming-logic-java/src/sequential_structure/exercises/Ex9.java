@@ -1,4 +1,4 @@
-package exercises;
+package sequential_structure.exercises;
 
 public class Ex9 {
     public static void main(String[] args) {

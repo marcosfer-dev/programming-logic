@@ -1,4 +1,4 @@
-package primitive_type;
+package sequential_structure.primitive_type;
 
 public class PrimitiveType {
     public static void main(String[] args) {

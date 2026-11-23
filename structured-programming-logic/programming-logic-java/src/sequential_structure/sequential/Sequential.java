@@ -1,3 +1,5 @@
+package sequential_structure.sequential;
+
 public class Sequential {
     public static void main(String[] args) {
         System.out.println("Instruction number 1");

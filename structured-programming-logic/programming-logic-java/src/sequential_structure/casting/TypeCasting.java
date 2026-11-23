@@ -1,4 +1,4 @@
-package casting;
+package sequential_structure.casting;
 
 public class TypeCasting {
     public static void main(String[] args) {
